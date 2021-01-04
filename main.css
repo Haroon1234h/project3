@@ -1,0 +1,125 @@
+.btn-primary {
+    color: #483f34;
+    background-color: #ffc55f;
+    border-color: #e7ad47;}
+.has-margin-bottom {
+    margin-bottom: 50px;
+}
+
+.highlight-bg {
+    background: #f9f1e6;
+    padding: 50px 0;} 
+.btn {
+    float: right;}   
+div {
+    display: block;
+
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: montserrat,Arial,sans-serif;
+    font-weight: 700;
+}
+
+@media (min-width: 992px)
+.event-cta {
+    text-align: left;
+}
+.event-cta {
+    text-align: center;
+}
+@media (min-width: 992px)
+.container {
+    width: 970px;
+}
+@media (min-width: 768px)
+.container {
+    width: 750px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.card {
+	padding-right: 15px; 
+     padding-left: 15px; 
+}
+.owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+.link-reverse {
+    color: #e95d00;
+}
+
+.well {
+    background: #f9f1e6;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);}
+
+    .dark{
+    	 color: #555;
+  
+    }
+    .section-title {
+    text-align: center;
+    color: #53504c;
+    min-height: 40px;
+    margin-bottom: 40px;
+}
+.charity-box {
+    background: #f9f1e6;
+    overflow: hidden;
+}
+@media (min-width: 992px)
+.charity-image {
+    width: 100px;
+    margin-bottom: 0;
+    margin-right: 20px;
+}
+.charity-image {
+    
+    float: left;
+  
+}
+.charity-desc {
+    padding: 15px;
+}
+.link-reverse {
+    color: #e95d00;
+}
+.pledged-amount {
+    font-size: 40px;
+    color: #53504c;
+    margin: 15px 0 5px;
+}
+h2 {
+    
+    word-spacing: -3px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+a {
+    color: #2c2c2a;
+    text-decoration: none;
+}
+.img-gallery .fancybox img {
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
